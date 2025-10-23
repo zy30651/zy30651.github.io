@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as r,ag as d}from"./chunks/framework.B-XtCDNB.js";const g=JSON.parse('{"title":"模型参数","description":"","frontmatter":{},"headers":[],"relativePath":"Dify/模型参数.md","filePath":"Dify/模型参数.md"}'),o={name:"Dify/模型参数.md"};function a(e,t,n,s,u,p){return r(),i("div",null,[...t[0]||(t[0]=[d("",40)])])}const c=l(o,[["render",a]]);export{g as __pageData,c as default};

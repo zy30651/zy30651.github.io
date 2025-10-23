@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as e,ag as r}from"./chunks/framework.B-XtCDNB.js";const p=JSON.parse('{"title":"Dify","description":"","frontmatter":{},"headers":[],"relativePath":"Dify/Dify.md","filePath":"Dify/Dify.md"}'),o={name:"Dify/Dify.md"};function l(n,t,s,f,_,d){return e(),a("div",null,[...t[0]||(t[0]=[r("",3)])])}const y=i(o,[["render",l]]);export{p as __pageData,y as default};
